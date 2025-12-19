@@ -12,4 +12,4 @@ Voir aussi :
 
 ![Simon sur breadboard](./simon/circuit_simon_sur_table.jpg)
 
-Code et circuit pour reproduire le fonctionnement du jeu de mémorisation «Simon»
+[Code et circuit pour reproduire le fonctionnement du jeu de mémorisation «Simon»](./simon/)
