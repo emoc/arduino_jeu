@@ -8,8 +8,7 @@ Voir aussi :
 
 
 
-
-## Simon
+## Simon
 
 ![Simon sur breadboard](./simon/circuit_simon_sur_table.jpg)
 

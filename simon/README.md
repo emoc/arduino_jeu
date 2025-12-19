@@ -22,8 +22,7 @@ C'est le principe utilisé par le «Simon» original
 ![Circuit du Simon sur breadboard](./circuit_simon_breadboard.jpg)
 
 
-
-## Ressources sur le «Simon»
+## Ressources sur le «Simon»
 
   * https://fr.wikipedia.org/wiki/Simon_(jeu)
   * Reverse engineering du Simon original : https://www.waitingforfriday.com/?p=586 ([archive](https://web.archive.org/web/20250114130520/https://www.waitingforfriday.com/?p=586))
