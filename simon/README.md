@@ -17,9 +17,9 @@ Le jeu définit une séquence au hasard qu'il faudra rejouer un élément à la 
 Le rythme s'accélère progressivement.
 C'est le principe utilisé par le «Simon» original 
 
-![Schéma du circuit du Simon](./simon/circuit_simon_schema.png)
+![Schéma du circuit du Simon](./circuit_simon_schema.png)
 
-![Circuit du Simon sur breadboard](./simon/circuit_simon_breadboard.jpg)
+![Circuit du Simon sur breadboard](./circuit_simon_breadboard.jpg)
 
 ## Ressources sur le «Simon»
 
