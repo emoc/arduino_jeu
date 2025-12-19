@@ -21,6 +21,8 @@ C'est le principe utilisé par le «Simon» original
 
 ![Circuit du Simon sur breadboard](./circuit_simon_breadboard.jpg)
 
+
+
 ## Ressources sur le «Simon»
 
   * https://fr.wikipedia.org/wiki/Simon_(jeu)
